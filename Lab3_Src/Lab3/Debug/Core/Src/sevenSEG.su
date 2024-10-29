@@ -1,0 +1,8 @@
+sevenSEG.c:19:6:updateLedBuffer	8	static
+sevenSEG.c:34:6:updateManualRedLedBuffer	8	static
+sevenSEG.c:48:6:updateManualYellowLedBuffer	8	static
+sevenSEG.c:62:6:updateManualGreenLedBuffer	8	static
+sevenSEG.c:76:6:update7SEGRoad1	16	static
+sevenSEG.c:96:6:update7SEGRoad2	16	static
+sevenSEG.c:114:6:display7SEGRoad1	16	static
+sevenSEG.c:198:6:display7SEGRoad2	16	static

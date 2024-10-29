@@ -1,0 +1,4 @@
+software_timer.c:23:6:setTimerRoad1	16	static
+software_timer.c:28:6:setTimerRoad2	16	static
+software_timer.c:33:6:setTimer2	4	static
+software_timer.c:38:6:timerRun	4	static

@@ -1,0 +1,2 @@
+button.c:27:5:checkflag	16	static
+button.c:36:6:getKeyInput	16	static

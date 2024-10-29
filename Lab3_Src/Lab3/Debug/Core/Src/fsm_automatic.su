@@ -1,0 +1,2 @@
+fsm_automatic.c:3:6:checkManual	8	static
+fsm_automatic.c:13:6:fsm_automatic_run	8	static
