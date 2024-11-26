@@ -1,0 +1,10 @@
+main.c:63:6:ledred	8	static
+main.c:66:6:ledyellow	8	static
+main.c:69:6:ledgreen	8	static
+main.c:72:6:ledoneshot	8	static
+main.c:81:5:main	8	static
+main.c:131:6:SystemClock_Config	72	static
+main.c:167:13:MX_TIM2_Init	32	static
+main.c:212:13:MX_GPIO_Init	32	static
+main.c:232:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:241:6:Error_Handler	4	static,ignoring_inline_asm
